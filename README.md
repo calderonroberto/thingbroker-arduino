@@ -1,3 +1,9 @@
+### Changelog
+
+2014/05/07: Added changelog
+
+### Description
+
 A library and gateway to use an Arduino with the ThingBroker developed at the MAGIC lab. UBC.
 
 
